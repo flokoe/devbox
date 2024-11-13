@@ -23,7 +23,9 @@
     "starship@latest",
     "bitwarden-cli@latest",
     "bat@latest",
-    "delta@latest"
+    "delta@latest",
+    "zoxide@latest",
+    "fzf@latest"
   ],
   "shell": {
     "init_hook": [
