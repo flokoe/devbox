@@ -25,7 +25,19 @@
     "bat@latest",
     "delta@latest",
     "zoxide@latest",
-    "fzf@latest"
+    "fzf@latest",
+    "hugo@latest",
+    "scrcpy@latest",
+    "android-tools@latest",
+    "skopeo@latest",
+    "pipx@latest",
+    "android-file-transfer@latest",
+    "mtpfs@latest",
+    "veracrypt@latest",
+    "uv@latest",
+    "go@latest",
+    "strace@latest",
+    "mkosi@latest"
   ],
   "shell": {
     "init_hook": [
