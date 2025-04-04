@@ -30,14 +30,14 @@
     "scrcpy@latest",
     "android-tools@latest",
     "skopeo@latest",
-    "pipx@latest",
-    "android-file-transfer@latest",
-    "mtpfs@latest",
     "veracrypt@latest",
     "uv@latest",
     "go@latest",
     "strace@latest",
-    "mkosi@latest"
+    "mkosi@latest",
+    "libwebp@latest",
+    "btop@latest",
+    "oras@latest"
   ],
   "shell": {
     "init_hook": [
