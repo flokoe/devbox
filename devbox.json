@@ -30,7 +30,6 @@
     "scrcpy@latest",
     "android-tools@latest",
     "skopeo@latest",
-    "veracrypt@latest",
     "uv@latest",
     "go@latest",
     "strace@latest",

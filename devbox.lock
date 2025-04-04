@@ -1992,34 +1992,6 @@
         }
       }
     },
-    "veracrypt@latest": {
-      "last_modified": "2025-03-23T05:31:05Z",
-      "resolved": "github:NixOS/nixpkgs/dd613136ee91f67e5dba3f3f41ac99ae89c5406b#veracrypt",
-      "source": "devbox-search",
-      "version": "1.26.20",
-      "systems": {
-        "aarch64-linux": {
-          "outputs": [
-            {
-              "name": "out",
-              "path": "/nix/store/vs0z5js8i28j9diprxdj7y9y0bndlijr-veracrypt-1.26.20",
-              "default": true
-            }
-          ],
-          "store_path": "/nix/store/vs0z5js8i28j9diprxdj7y9y0bndlijr-veracrypt-1.26.20"
-        },
-        "x86_64-linux": {
-          "outputs": [
-            {
-              "name": "out",
-              "path": "/nix/store/6h580zicj3lbwsgx3kv0s0nbqqrk9sly-veracrypt-1.26.20",
-              "default": true
-            }
-          ],
-          "store_path": "/nix/store/6h580zicj3lbwsgx3kv0s0nbqqrk9sly-veracrypt-1.26.20"
-        }
-      }
-    },
     "xh@latest": {
       "last_modified": "2025-03-11T17:52:14Z",
       "resolved": "github:NixOS/nixpkgs/0d534853a55b5d02a4ababa1d71921ce8f0aee4c#xh",
