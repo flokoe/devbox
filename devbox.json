@@ -37,7 +37,11 @@
     "mkosi@latest",
     "libwebp@latest",
     "btop@latest",
-    "oras@latest"
+    "oras@latest",
+    "dive@latest",
+    "xh@latest",
+    "step-cli@latest",
+    "tfswitch@latest"
   ],
   "shell": {
     "init_hook": [
