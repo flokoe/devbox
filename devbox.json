@@ -40,8 +40,7 @@
     "dive@latest",
     "xh@latest",
     "step-cli@latest",
-    "tfswitch@latest",
-    "httpie@latest"
+    "tfswitch@latest"
   ],
   "shell": {
     "init_hook": [
