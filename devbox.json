@@ -40,7 +40,8 @@
     "dive@latest",
     "xh@latest",
     "step-cli@latest",
-    "tfswitch@latest"
+    "tfswitch@latest",
+    "nmap@latest"
   ],
   "shell": {
     "init_hook": [
